@@ -34,8 +34,8 @@
   </a>
 </p>
 
-- 👀 I’m interested in React, TypeScript, Domain Driven Design(DDD), Docker, Nodejs etc
-- 🌱 I’m currently learning React, Typescript
+- 👀 I’m interested in React, TypeScript, Domain Driven Design(DDD), Docker, Nodejs, Golnag etc
+- 🌱 I’m currently learning React, Typescript, Golang
 
 I am stuffed with drawing code that is readable and clean!
 I'm also interested in clean design.
