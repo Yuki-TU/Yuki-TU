@@ -1,52 +1,45 @@
-## 👋 Hi, I’m @Yuki-TU
-<p align="left"> 
-  <a href="https://github.com/Yuki-TU/Yuki-TU/">
-    <img src="https://komarev.com/ghpvc/?username=Yuki-TU" alt="Yuki-TU" />
-  </a>
-  <a href="http://twitter.com/nerusan_main">
-    <img height="20" src="https://img.shields.io/twitter/follow/nerusan_main?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/Yuki-TU">
-    <img height="20" src="https://img.shields.io/github/followers/Yuki-TU?label=follow&logo=github&style=flat" />
-  </a>
-  <!--  
-  <a href="https://www.reddit.com/user/yutkat">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/yutkat">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a> 
-   --> 
-  <a href="https://zenn.dev/yuki_tu">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/yuki_tu/likes" />
-  </a>
-  <a href="https://zenn.dev/yuki_tu">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/yuki_tu/followers" />
-  </a>
-  <a href="https://zenn.dev/yuki_tu">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/yuki_tu/articles" />
-  </a>
-  <a href="http://qiita.com/Yuki-TU">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Yuki-TU/posts.svg" />
-  </a>
-  <a href="http://qiita.com/Yuki-TU">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Yuki-TU/contributions.svg" />
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=007acc&text=Hi,%20I'm%20Yuki-TU%20✨&fontSize=55&animation=fadeIn" alt="Header" />
 </p>
 
-- 👀 I’m interested in React, TypeScript, Domain Driven Design(DDD), Docker, Nodejs, Golnag etc
-- 🌱 I’m currently learning React, Typescript, Golang
 
-I am stuffed with drawing code that is readable and clean!
-I'm also interested in clean design.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuki-TU&color=007acc&style=flat-square" alt="Yuki-TU" />
+  <img src="https://img.shields.io/twitter/follow/nerusan_main?label=Twitter&logo=twitter&style=flat-square&color=1da1f2" alt="Twitter" />
+  <img src="https://img.shields.io/github/followers/Yuki-TU?label=Followers&logo=github&style=flat-square&color=24292e" alt="Followers" />
+</p>
 
-<!---
-Yuki-TU/Yuki-TU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<a href="https://github.com/Yuki-TU">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Yuki-TU&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/Yuki-TU">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-TU&layout=compact&theme=dracula" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Zenn-yuki__tu-3ea8ff?style=flat-square&logo=zenn&logoColor=white" alt="Zenn" />
+  <img src="https://img.shields.io/badge/Qiita-Yuki--TU-55c500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
+</p>
+
+---
+
+### 🚀 About Me
+> **"Crafting clean, readable code and architecting scalable systems."**
+> 可読性が高く、洗練された美しいコードを書くことに情熱を注いでいます。クリーンアーキテクチャやデザインパターンに関心があります。
+
+* **🎨 Specialities:** Crafting pixel-perfect frontend experiences & building robust backends.
+* **⚡ Current Focus:** Deep diving into Domain-Driven Design (DDD) & Mastering Cloud Native ecosystems.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | `React` `TypeScript` `Next.js` `HTML5/CSS3` |
+| **Backend** | `Go (Golang)` `Node.js` |
+| **Architecture** | `Domain-Driven Design (DDD)` `Clean Architecture` |
+| **DevOps & Infra** | `Docker` `Git` `GitHub Actions` `AWS` |
+| **AI** | `Cursor` `Claude Code` |
+
+---
+
+### 📊 GitHub Stats & Insights
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Yuki-TU&show_icons=true&theme=tokyonight&border_radius=10" height="180px" alt="Yuki-TU's GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Yuki-TU&layout=compact&theme=tokyonight&border_radius=10" height="180px" alt="Top Languages" />
+</p>
